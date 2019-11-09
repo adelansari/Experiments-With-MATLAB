@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<appProperties xmlns="http://schemas.mathworks.com/matlab/app/2012/appProperties" signature="4536EC4323A487796A3A01C7C4F4D674BD6E5126">
+
+  <entryPoint>exmgui</entryPoint>
+
+  <name>Experiments with MATLAB</name>
+
+  <version>1.0</version>
+
+  <createdByMATLABRelease>(R2012b)</createdByMATLABRelease>
+
+  <GUID>05116067-2663-42c3-9bdb-e5bdf75e1181</GUID>
+
+  <summary>Apps from Experiments with MATLAB</summary>
+
+  <description>Experiments with MATLAB is an electronic book with chapters that supplement high school and early college courses in mathematics and technical computing, including calculus and matrix theory. The expected background includes algebra, trigonometry, and some familiarity with computers.
+
+This app includes 20 interactive applications from the book which help readers explore a wide range of mathematical concepts through interesting applications.
+
+The entire textbook and additional supporting code is available for free download:
+http://www.mathworks.com/moler/exm/index.html</description>
+
+  <author>
+    <name>Cleve Moler</name>
+    <contact></contact>
+    <organization></organization>
+  </author>
+
+  <supportedPlatforms>
+    <platform>win32</platform>
+  </supportedPlatforms>
+
+  <requiredProducts>
+    <product identifier="8" name="MATLAB" version="6.18"/>
+  </requiredProducts>
+
+  <numFiles>89</numFiles>
+
+  <created>2012-08-31T11:34:20Z</created>
+
+  <appEntries>
+    <appFile>/exmgui.m</appFile>
+    <appFile>/bigscreen.m</appFile>
+    <appFile>/biorhythm.m</appFile>
+    <appFile>/bouncer.m</appFile>
+    <appFile>/brownian3.m</appFile>
+    <appFile>/calendar_recap.m</appFile>
+    <appFile>/checkerboard.m</appFile>
+    <appFile>/clefs.mat</appFile>
+    <appFile>/clockex.m</appFile>
+    <appFile>/Contents.m</appFile>
+    <appFile>/dot2dot.m</appFile>
+    <appFile>/durerperm.m</appFile>
+    <appFile>/easter.m</appFile>
+    <appFile>/exmgui.m</appFile>
+    <appFile>/exmgui_pix.mat</appFile>
+    <appFile>/exmlogo.m</appFile>
+    <appFile>/exmlogosmall.png</appFile>
+    <appFile>/expex.m</appFile>
+    <appFile>/expgui.m</appFile>
+    <appFile>/exponential_recap.m</appFile>
+    <appFile>/fern.jpg</appFile>
+    <appFile>/fern.m</appFile>
+    <appFile>/fern_recap.m</appFile>
+    <appFile>/fibnum.m</appFile>
+    <appFile>/fibonacci.m</appFile>
+    <appFile>/fibonacci_recap.m</appFile>
+    <appFile>/finitefern.m</appFile>
+    <appFile>/fixedpoint.m</appFile>
+    <appFile>/friday13.m</appFile>
+    <appFile>/golden_spiral.m</appFile>
+    <appFile>/goldfract.m</appFile>
+    <appFile>/goldie.m</appFile>
+    <appFile>/hand.m</appFile>
+    <appFile>/harvard500.mat</appFile>
+    <appFile>/hello_world.m</appFile>
+    <appFile>/house.m</appFile>
+    <appFile>/houses.m</appFile>
+    <appFile>/inregion.m</appFile>
+    <appFile>/ismagical.m</appFile>
+    <appFile>/iteration_recap.m</appFile>
+    <appFile>/knightstour.m</appFile>
+    <appFile>/lexicon.txt</appFile>
+    <appFile>/life_recap.m</appFile>
+    <appFile>/lifex.m</appFile>
+    <appFile>/linear_recap.m</appFile>
+    <appFile>/lissajous.m</appFile>
+    <appFile>/magic_recap.m</appFile>
+    <appFile>/mandelbrot.m</appFile>
+    <appFile>/mandelbrot_menu.mat</appFile>
+    <appFile>/mandelbrot_recap.m</appFile>
+    <appFile>/mandelbrot_step.c</appFile>
+    <appFile>/mandelbrot_step.m</appFile>
+    <appFile>/mandelbrot_step.mexw32</appFile>
+    <appFile>/matrices_recap.m</appFile>
+    <appFile>/morse_code.m</appFile>
+    <appFile>/morse_gui.m</appFile>
+    <appFile>/morse_recap.m</appFile>
+    <appFile>/morse_tree.m</appFile>
+    <appFile>/morse_tree_extended.m</appFile>
+    <appFile>/music_recap.m</appFile>
+    <appFile>/ode1.m</appFile>
+    <appFile>/odes_recap.m</appFile>
+    <appFile>/orbits.m</appFile>
+    <appFile>/orbits_recap.m</appFile>
+    <appFile>/pagerank.m</appFile>
+    <appFile>/pagerank_recap.m</appFile>
+    <appFile>/piano_c.mat</appFile>
+    <appFile>/pianoex.m</appFile>
+    <appFile>/predprey.m</appFile>
+    <appFile>/predprey_recap.m</appFile>
+    <appFile>/puzzle_recap.m</appFile>
+    <appFile>/rabbits.m</appFile>
+    <appFile>/rabbits.mat</appFile>
+    <appFile>/scream.m</appFile>
+    <appFile>/sudoku.m</appFile>
+    <appFile>/sudoku_all.m</appFile>
+    <appFile>/sudoku_assist.m</appFile>
+    <appFile>/sudoku_basic.m</appFile>
+    <appFile>/sudoku_puzzle.m</appFile>
+    <appFile>/sudoku_recap.m</appFile>
+    <appFile>/t_puzzle.m</appFile>
+    <appFile>/tictactoe.m</appFile>
+    <appFile>/tictactoe_recap.m</appFile>
+    <appFile>/vibrating_string.m</appFile>
+    <appFile>/vivaldi.m</appFile>
+    <appFile>/water_recap.m</appFile>
+    <appFile>/waterwave.m</appFile>
+    <appFile>/wiggle.m</appFile>
+    <appFile>/wilhelm.mat</appFile>
+  </appEntries>
+
+</appProperties>
